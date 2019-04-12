@@ -1,2 +1,3 @@
 # Food-Finder
-Application which allows you to search for different restaurants by giving a dish name like pizza, coffee etc.
+Open index.html to use the web application.
+You can search for the restaurants by giving the names of dishes that you would like and can see the list of restaurants returned which serve that dish.
